@@ -21,8 +21,8 @@
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
-  color: #2cb67d;
-  border: 1px solid #2cb67d;
+  color: #232946;
+  border: 1px solid #232946;
 }
 
 #mainNav .navbar-toggler:focus {
@@ -82,15 +82,15 @@
     border-bottom: 0.25rem solid transparent;
   }
   #mainNav.navbar-shrink .nav-link:hover {
-    color: #2cb67d;
+    color: #232946;
   }
   #mainNav.navbar-shrink .nav-link:active {
     color: #467370;
   }
   #mainNav.navbar-shrink .nav-link.active {
-    color: #2cb67d;
+    color: #232946;
     outline: none;
-    border-bottom: 0.25rem solid #2cb67d;
+    border-bottom: 0.25rem solid #232946;
   }
 }
 
@@ -166,7 +166,7 @@
 }
 
 .btn-primary {
-  background-color: #2cb67d;
+  background-color: #232946;
 }
 
 .btn-primary:hover {
@@ -207,7 +207,7 @@
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
-    border-left: 0.5rem solid #2cb67d;
+    border-left: 0.5rem solid #232946;
   }
 }
 
@@ -221,7 +221,7 @@
     padding: 5rem;
   }
   .projects-section .project-text hr {
-    border-color: #2cb67d;
+    border-color: #232946;
     border-width: 0.25rem;
     width: 30%;
   }
@@ -236,7 +236,7 @@ img#bottomImg{
 
 .contact-section .card {
   border: 0;
-  border-bottom: 0.25rem solid #2cb67d;
+  border-bottom: 0.25rem solid #232946;
 }
 
 .contact-section .card h4 {
@@ -247,7 +247,7 @@ img#bottomImg{
 }
 
 .contact-section .card hr {
-  border-color: #2cb67d;
+  border-color: #232946;
   border-width: 0.25rem;
   width: 3rem;
 }
@@ -259,7 +259,7 @@ body {
 }
 
 a {
-  color: #2cb67d;
+  color: #232946;
 }
 
 a:focus,
@@ -273,11 +273,11 @@ a:hover {
 }
 
 .bg-primary {
-  background-color: #2cb67d !important;
+  background-color: #232946 !important;
 }
 
 .text-primary {
-  color: #2cb67d !important;
+  color: #232946 !important;
 }
 
 footer {
